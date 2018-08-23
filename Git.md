@@ -10,8 +10,10 @@
 
 ## Merge Conflict
 - `git pull`
+```
   <<<<<<<<< HEAD
     some text 1
   =========
     some text 2
   >>>>>>>>> commit hash
+```
